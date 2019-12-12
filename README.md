@@ -1,5 +1,4 @@
-# Apps From Scratch | Flutter Chat UI Starter Repo
+![alt tag](https://github.com/rahul-connect/messageappui/blob/master/screenshot/msgapp1.png?raw=true)
 
-Clone this repo and follow my YouTube video: [Flutter Chat UI Tutorial | Apps From Scratch](https://youtu.be/h-igXZCCrrc)
+![alt tag](https://github.com/rahul-connect/messageappui/blob/master/screenshot/msgapp2.png?raw=true)
 
-[Complete Chat UI](https://github.com/MarcusNg/flutter_chat_ui)
